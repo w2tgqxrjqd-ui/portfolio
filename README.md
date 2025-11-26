@@ -1,5 +1,4 @@
- profilbild.jpg
- 
+
 </head>
 <body>
 
