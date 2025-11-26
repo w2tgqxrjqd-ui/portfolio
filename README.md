@@ -15,7 +15,7 @@
         <li>Telefon: 0179 200 69 74</li>
         <li>Email: <a href="mailto:Farhan.hashemi1376@yahoo.com">Farhan.hashemi1376@yahoo.com</a></li>
       
-    </ul>
+    
 </section>
 
 <section>
