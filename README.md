@@ -14,8 +14,7 @@
         <li>Adresse: Fritz-Bauer-Straße 38, 64295 Darmstadt</li>
         <li>Telefon: 0179 200 69 74</li>
         <li>Email: <a href="mailto:Farhan.hashemi1376@yahoo.com">Farhan.hashemi1376@yahoo.com</a></li>
-        <li>LinkedIn: <a href="#">linkedin.com/in/farhanhashemi</a></li>
-        <li>GitHub: <a href="#">github.com/farhanhashemi</a></li>
+      
     </ul>
 </section>
 
